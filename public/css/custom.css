@@ -1,0 +1,19 @@
+body {
+    background-color: #dbdde6;
+}
+
+#map {
+    height: 400px;
+}
+
+#mapModal {
+    height: 400px;
+}
+
+.my-leaflet-map-container img {
+    max-height: none;
+}
+
+#map-link {
+    display: none;
+}
